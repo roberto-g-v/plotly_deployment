@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
+
 Homework 12
->>>>>>> 2d895e247d38b5823324f2ad9094c641b3081c26
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
@@ -22,7 +21,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
+  ![bar Chart](images/hw01.png)
 
 3. Create a bubble chart that displays each sample.
 
