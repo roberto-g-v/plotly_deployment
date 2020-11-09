@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Homework 12
+>>>>>>> 2d895e247d38b5823324f2ad9094c641b3081c26
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
